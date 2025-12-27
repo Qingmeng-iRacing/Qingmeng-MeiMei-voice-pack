@@ -33,15 +33,23 @@ overrideSpccRate=1
 在【Voice Pack】下菜单中选择【Qingmeng-MeiMei-Spotter-v1.1】，点击页面右下角【Apply&Close】后，重启游戏后即成功安装。
 
 墙裂推荐的【AI Spotter】设置：
+
 👉关注【AI Spotter Options】栏目
+
 👉将【Chattiness】下拉菜单中选择【High】★★★★★（非常重要）
+
 👉启动【Report laps】功能✔
+
 👉启动【Pit Box Countdown】功能✔
+
 👉将【Report Laps】下拉菜单中选择【Time】
 
 选择推荐的【AI Spotte】设置：
+
 👉关注【AI Spotter Controls】栏目
+
 👉将【Spotter Damage Report】绑定快捷按键，即可实现（按下绑定按键）启动主动车损报告功能
+
 👉将【Spotter Weather Report】绑定快捷按键，即可实现（按下绑定按键）启动主动天气报告功能
 
 （您按照以上设置可彻底解锁该语音包全部能力）
@@ -68,6 +76,7 @@ overrideSpccRate=1
 成为“青盟”的一员，你获得的将远超预期：
 
     👉标准权益：第一时间的更新、可靠的耐力赛队友、丰富的社区活动、深度的技术交流。
+    
     👉参与构建：你将有机会为我们未来的项目（如仪表UI插件、新语音包、俱乐部定制涂装等）提供宝贵建议，成为共创者。
 
 🏆 青盟的承诺，以及我们共同的终极愿景 ---
