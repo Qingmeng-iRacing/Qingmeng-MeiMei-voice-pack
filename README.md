@@ -107,6 +107,7 @@ overrideSpccRate=1
 👉 微信(梦想孵化器):
 主号：[青盟iR群管理]  微信ID：QMiRacing
 备用：[青盟IR赛事管理]  微信ID：iRacingRace
+
 👉微信公众号[青盟iRacing社区]
    (核心讨论、文件发布、组队约赛、蓝图共创。见证并参与这一切的发生，强烈推荐！)
 
